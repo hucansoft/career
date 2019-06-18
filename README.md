@@ -96,6 +96,4 @@
 
 ### Web Application 개발
 
-다음 영역에 해당하는 개발자를 모시고있습니다.
-
-- React 개발자 채용 [Frontend](frontend.md)
+다음 기회에...
